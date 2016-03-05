@@ -1,0 +1,1 @@
+{"Colours": ["r", "g", "b"], "Shapes": ["*-", ".-", "o-"], "Legend_font": 20, "Y_font": 20, "X_font": 20, "Y_axis_font": 20, "Title_font": 20, "X_axis_font": 20}

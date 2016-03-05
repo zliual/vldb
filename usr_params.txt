@@ -1,0 +1,1 @@
+{"Saving": "./test_img.jpg", "Title": "test_image", "X_Axis": "x_axis", "Histos": ["cur_1", "cur_2"], "Y_Axis": "y_axis", "X_Scale": ""}
